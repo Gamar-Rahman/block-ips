@@ -121,7 +121,7 @@ if __name__ == "__main__":
 
 ---
 
-## 🎅 Features
+##  Features
 - Extracts IP addresses from one or more log files  
 - Blocks IPs that:
   - Are Tor exit nodes  
@@ -141,7 +141,7 @@ mini-fail2ban/
 
 ---
 
-## 🏁 Usage
+##  Usage
 
 ### Run with one log file:
 ```bash
